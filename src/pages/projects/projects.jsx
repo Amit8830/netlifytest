@@ -26,14 +26,18 @@ const Projects = () => {
                   <Card.Text className="text-center style">
                     <br />
                     <ul className="text-left">
-                      <li>Clone of Amazon using Mern Stack</li>
+                      <li>Clone of Netflix using React</li>
                       <li>Clone Of Zoom Application using Node ,Express.</li>
                       <li>Clone Of Youtube using React Js</li>
+                      <li>Clone of MI Store Keep using React Js</li>
                       <li>Clone of Google Keep using React Js</li>
+                      <li>Login and Registration Form using React</li>
+                      <li>Bakelogy Cake Shop using React</li>
+                      <li>Quiz App using React</li>
                       <li>To-Do List using ReactJs</li>
-                      <li>Responsive website using React</li>
+                      <li>Covid Api using React</li>
                       <li>Digital Clock using React Js</li>
-                    <li> A real Time Analog Clock using HTML,CSS,JS</li>
+                    <li> A real Time Analog Clock using ReactJs</li>
                     <li> A Dice Game using HTML,CSS,JS</li>
                     <li> Responsive BLOG website using HTML,CSS,JS</li>
                     </ul>

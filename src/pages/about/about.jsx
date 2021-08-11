@@ -23,14 +23,15 @@ const About = () => {
                         <Col xs={12} md={6}>
                             <Row className=" align-items-start p-2 my-details rounded">
                                 Hi there! I am <strong>&nbsp;Amit Gupta</strong>
-                                <br />A passionate programmer , born in India. I have Done my Course in Full Stack Web Developer with Html, CSS, JS , React.js, Express.js, Node.js, and MongoDB.
+                                <br />A passionate programmer , born in India. I have Done my Course in Full Stack Web Development with HTML, CSS, JS , React.js, Express.js, Node.js, and MongoDB as my tech stack.
                 <br />
-                In 2021, I successfully completed my Engineering with specialization in 'Electronics".
+                In 2021, I have successfully completed my Engineering with specialization in 'Electronics".
                 <br />
-                I Have done Various Project ,as you can see my resume and one the most interesting project i have done is youtube Clone, Zoom app and Amazon Clone😄
+                I have done Various Project ,as you can see in my resume and the most interesting project I have done are Youtube Clone, Zoom app and Netflix Clone.
                 <br />
-                And I have change my path to IT field because I love coding, and i am interesting in making Web application, and the best part is i love to find the error and solve it by myself.
-                <br />I love learning about new technologies,and try to work on that.
+                And I have changed my path to IT field because I love coding, interested in making Web application, and the best part is i love to find the error and solve it by myself.
+                <br />I love to learn new technologies,and work on my skillset.
+
                 <br /> <br />
                                 <Col className="d-flex justify-content-center flex-wrap">
                                     <div>
@@ -41,7 +42,7 @@ const About = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <a href="https://drive.google.com/file/d/1ci2H3eaYRuMuyRYZIYNNAaA2Z7CfkY2M/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                        <a href="https://drive.google.com/file/d/1zIE5-h5AcvfuK_dGwYYe90srusaMHRQt/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                             <Button className="m-2" variant="outline-success">
                                                 My Resume
                       </Button>
